@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>ClassLibrary</AssemblyName>
+    <TargetFramework>net46</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>B.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>
